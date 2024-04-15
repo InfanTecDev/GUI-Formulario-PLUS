@@ -1,0 +1,1 @@
+En este trabajo se hace uso de una librería propia que contiene un inicio de sesión, es importada y utilizada dentro del programa para registro de personas. Para iniciar sesión, puede utilizar el usuario "InfanTec" y la contraseña "MiAcceso".
