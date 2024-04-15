@@ -1,0 +1,4 @@
+Sául Rodríguez, 15, 100, 1.78, 31.4
+Diego Infante, 19, 100, 1.81, 30.054
+Uriel Galván, 19, 1.76, 70, 25.01
+Fer Navarro, 20, 60, 1.60, 24.014
